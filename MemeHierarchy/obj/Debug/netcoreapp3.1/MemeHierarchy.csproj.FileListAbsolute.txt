@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.exe
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.deps.json
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.runtimeconfig.json
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.dll
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\bin\Debug\netcoreapp3.1\MemeHierarchy.pdb
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.dll
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.pdb
+C:\Users\Admin\source\repos\MemeHierarchy\MemeHierarchy\obj\Debug\netcoreapp3.1\MemeHierarchy.genruntimeconfig.cache
